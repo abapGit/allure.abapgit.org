@@ -1,2 +1,0 @@
-# allure.abapgit.org
-Testing
