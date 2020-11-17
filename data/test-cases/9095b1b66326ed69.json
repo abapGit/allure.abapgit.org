@@ -1,0 +1,42 @@
+{
+  "uid" : "9095b1b66326ed69",
+  "name" : "differs",
+  "fullName" : "differs",
+  "historyId" : "differs",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "CL_ABAP_UNIT_ASSERT.ltcl_test"
+  }, {
+    "name" : "testClass",
+    "value" : "CL_ABAP_UNIT_ASSERT.ltcl_test"
+  }, {
+    "name" : "package",
+    "value" : "CL_ABAP_UNIT_ASSERT.ltcl_test"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9095b1b66326ed69.json",
+  "parameterValues" : [ ]
+}

@@ -1,26 +1,59 @@
 {
-  "total" : 2,
+  "total" : 5,
   "items" : [ {
-    "uid" : "37b11566d6d289af8290e8d283ddcd49",
-    "name" : "split_string",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "81af0c2365f10cf62b935cc5f6c899a9",
-    "name" : "convert_int",
+    "uid" : "262bc23b06bad658e212531d824a161c",
+    "name" : "ZCL_ABAPGIT_CONVERT.ltcl_convert",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 10,
       "unknown" : 0,
-      "total" : 1
+      "total" : 10
+    }
+  }, {
+    "uid" : "d6e9e94cd27465399b9bd12ff730a607",
+    "name" : "ZCL_ABAPGIT_PATH.ltcl_path",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "b9c7cab8a48e821686381c8821fb2393",
+    "name" : "CL_ABAP_UNIT_ASSERT.ltcl_test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "b30ce439fd71b47fe40c52885cb37fe1",
+    "name" : "CL_ABAP_CONV_OUT_CE.ltcl_conv_out",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "8bd7af482e8b92edef9fbada61870ca7",
+    "name" : "CL_HTTP_UTILITY.ltcl_test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
     }
   } ]
 }

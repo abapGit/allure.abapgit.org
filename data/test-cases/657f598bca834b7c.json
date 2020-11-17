@@ -1,0 +1,42 @@
+{
+  "uid" : "657f598bca834b7c",
+  "name" : "unescape_url",
+  "fullName" : "unescape_url",
+  "historyId" : "unescape_url",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "CL_HTTP_UTILITY.ltcl_test"
+  }, {
+    "name" : "testClass",
+    "value" : "CL_HTTP_UTILITY.ltcl_test"
+  }, {
+    "name" : "package",
+    "value" : "CL_HTTP_UTILITY.ltcl_test"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "657f598bca834b7c.json",
+  "parameterValues" : [ ]
+}

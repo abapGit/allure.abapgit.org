@@ -1,0 +1,42 @@
+{
+  "uid" : "13bef851ac441cc3",
+  "name" : "change_dir",
+  "fullName" : "change_dir",
+  "historyId" : "change_dir",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "ZCL_ABAPGIT_PATH.ltcl_path"
+  }, {
+    "name" : "testClass",
+    "value" : "ZCL_ABAPGIT_PATH.ltcl_path"
+  }, {
+    "name" : "package",
+    "value" : "ZCL_ABAPGIT_PATH.ltcl_path"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "13bef851ac441cc3.json",
+  "parameterValues" : [ ]
+}

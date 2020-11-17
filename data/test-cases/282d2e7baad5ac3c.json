@@ -1,0 +1,40 @@
+{
+  "uid" : "282d2e7baad5ac3c",
+  "name" : "test1",
+  "fullName" : "test1",
+  "historyId" : "test1",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "CL_ABAP_CONV_IN_CE.ltcl_conv_in"
+  }, {
+    "name" : "testClass",
+    "value" : "CL_ABAP_CONV_IN_CE.ltcl_conv_in"
+  }, {
+    "name" : "package",
+    "value" : "CL_ABAP_CONV_IN_CE.ltcl_conv_in"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "282d2e7baad5ac3c.json",
+  "parameterValues" : [ ]
+}

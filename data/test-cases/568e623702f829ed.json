@@ -1,0 +1,42 @@
+{
+  "uid" : "568e623702f829ed",
+  "name" : "conversion_exit_isola_output",
+  "fullName" : "conversion_exit_isola_output",
+  "historyId" : "conversion_exit_isola_output",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "ZCL_ABAPGIT_CONVERT.ltcl_convert"
+  }, {
+    "name" : "testClass",
+    "value" : "ZCL_ABAPGIT_CONVERT.ltcl_convert"
+  }, {
+    "name" : "package",
+    "value" : "ZCL_ABAPGIT_CONVERT.ltcl_convert"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "568e623702f829ed.json",
+  "parameterValues" : [ ]
+}

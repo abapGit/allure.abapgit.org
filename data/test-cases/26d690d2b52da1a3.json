@@ -1,0 +1,54 @@
+{
+  "uid" : "26d690d2b52da1a3",
+  "name" : "test1",
+  "fullName" : "test1",
+  "historyId" : "test1",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "CL_ABAP_CONV_OUT_CE.ltcl_conv_out"
+  }, {
+    "name" : "testClass",
+    "value" : "CL_ABAP_CONV_OUT_CE.ltcl_conv_out"
+  }, {
+    "name" : "package",
+    "value" : "CL_ABAP_CONV_OUT_CE.ltcl_conv_out"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5a5c553521e29dc6",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    }, {
+      "uid" : "282d2e7baad5ac3c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "26d690d2b52da1a3.json",
+  "parameterValues" : [ ]
+}
