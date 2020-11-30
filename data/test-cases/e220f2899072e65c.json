@@ -1,0 +1,42 @@
+{
+  "uid" : "e220f2899072e65c",
+  "name" : "test_set_msg_z",
+  "fullName" : "test_set_msg_z",
+  "historyId" : "test_set_msg_z",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "ZCX_ABAPGIT_EXCEPTION.ltcl_split_text"
+  }, {
+    "name" : "testClass",
+    "value" : "ZCX_ABAPGIT_EXCEPTION.ltcl_split_text"
+  }, {
+    "name" : "package",
+    "value" : "ZCX_ABAPGIT_EXCEPTION.ltcl_split_text"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e220f2899072e65c.json",
+  "parameterValues" : [ ]
+}

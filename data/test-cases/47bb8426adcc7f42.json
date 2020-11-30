@@ -1,0 +1,42 @@
+{
+  "uid" : "47bb8426adcc7f42",
+  "name" : "split_string",
+  "fullName" : "split_string",
+  "historyId" : "split_string",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "ZCL_ABAPGIT_CONVERT.ltcl_convert"
+  }, {
+    "name" : "testClass",
+    "value" : "ZCL_ABAPGIT_CONVERT.ltcl_convert"
+  }, {
+    "name" : "package",
+    "value" : "ZCL_ABAPGIT_CONVERT.ltcl_convert"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "47bb8426adcc7f42.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,42 @@
+{
+  "uid" : "485f93508a66764e",
+  "name" : "repo_error",
+  "fullName" : "repo_error",
+  "historyId" : "repo_error",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "ZCL_ABAPGIT_URL.ltcl_test"
+  }, {
+    "name" : "testClass",
+    "value" : "ZCL_ABAPGIT_URL.ltcl_test"
+  }, {
+    "name" : "package",
+    "value" : "ZCL_ABAPGIT_URL.ltcl_test"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "485f93508a66764e.json",
+  "parameterValues" : [ ]
+}

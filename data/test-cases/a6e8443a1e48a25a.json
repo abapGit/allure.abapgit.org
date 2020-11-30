@@ -1,0 +1,42 @@
+{
+  "uid" : "a6e8443a1e48a25a",
+  "name" : "equals_table",
+  "fullName" : "equals_table",
+  "historyId" : "equals_table",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "CL_ABAP_UNIT_ASSERT.ltcl_test"
+  }, {
+    "name" : "testClass",
+    "value" : "CL_ABAP_UNIT_ASSERT.ltcl_test"
+  }, {
+    "name" : "package",
+    "value" : "CL_ABAP_UNIT_ASSERT.ltcl_test"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a6e8443a1e48a25a.json",
+  "parameterValues" : [ ]
+}

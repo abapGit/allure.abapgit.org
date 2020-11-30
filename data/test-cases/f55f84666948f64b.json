@@ -1,0 +1,42 @@
+{
+  "uid" : "f55f84666948f64b",
+  "name" : "convert_int",
+  "fullName" : "convert_int",
+  "historyId" : "convert_int",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "ZCL_ABAPGIT_CONVERT.ltcl_convert"
+  }, {
+    "name" : "testClass",
+    "value" : "ZCL_ABAPGIT_CONVERT.ltcl_convert"
+  }, {
+    "name" : "package",
+    "value" : "ZCL_ABAPGIT_CONVERT.ltcl_convert"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f55f84666948f64b.json",
+  "parameterValues" : [ ]
+}

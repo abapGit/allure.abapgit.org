@@ -1,0 +1,42 @@
+{
+  "uid" : "bca9f09d91003f5a",
+  "name" : "initial_ref",
+  "fullName" : "initial_ref",
+  "historyId" : "initial_ref",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "CL_ABAP_UNIT_ASSERT.ltcl_test"
+  }, {
+    "name" : "testClass",
+    "value" : "CL_ABAP_UNIT_ASSERT.ltcl_test"
+  }, {
+    "name" : "package",
+    "value" : "CL_ABAP_UNIT_ASSERT.ltcl_test"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bca9f09d91003f5a.json",
+  "parameterValues" : [ ]
+}

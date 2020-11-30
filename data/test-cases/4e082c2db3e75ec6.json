@@ -1,0 +1,42 @@
+{
+  "uid" : "4e082c2db3e75ec6",
+  "name" : "convert_bitbyte",
+  "fullName" : "convert_bitbyte",
+  "historyId" : "convert_bitbyte",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "ZCL_ABAPGIT_CONVERT.ltcl_convert"
+  }, {
+    "name" : "testClass",
+    "value" : "ZCL_ABAPGIT_CONVERT.ltcl_convert"
+  }, {
+    "name" : "package",
+    "value" : "ZCL_ABAPGIT_CONVERT.ltcl_convert"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e082c2db3e75ec6.json",
+  "parameterValues" : [ ]
+}

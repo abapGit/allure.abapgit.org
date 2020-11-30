@@ -1,0 +1,42 @@
+{
+  "uid" : "53d49be2c56daf5b",
+  "name" : "repo_host",
+  "fullName" : "repo_host",
+  "historyId" : "repo_host",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "ZCL_ABAPGIT_URL.ltcl_test"
+  }, {
+    "name" : "testClass",
+    "value" : "ZCL_ABAPGIT_URL.ltcl_test"
+  }, {
+    "name" : "package",
+    "value" : "ZCL_ABAPGIT_URL.ltcl_test"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53d49be2c56daf5b.json",
+  "parameterValues" : [ ]
+}

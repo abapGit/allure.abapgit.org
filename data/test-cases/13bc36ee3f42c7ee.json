@@ -1,0 +1,42 @@
+{
+  "uid" : "13bc36ee3f42c7ee",
+  "name" : "repo_name4",
+  "fullName" : "repo_name4",
+  "historyId" : "repo_name4",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "ZCL_ABAPGIT_URL.ltcl_test"
+  }, {
+    "name" : "testClass",
+    "value" : "ZCL_ABAPGIT_URL.ltcl_test"
+  }, {
+    "name" : "package",
+    "value" : "ZCL_ABAPGIT_URL.ltcl_test"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "13bc36ee3f42c7ee.json",
+  "parameterValues" : [ ]
+}
