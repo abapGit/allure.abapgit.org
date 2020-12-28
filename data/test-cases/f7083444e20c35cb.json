@@ -1,0 +1,42 @@
+{
+  "uid" : "f7083444e20c35cb",
+  "name" : "ZCL_ABAPGIT_HASH.ltcl_test.adler32",
+  "fullName" : "ZCL_ABAPGIT_HASH.ltcl_test.adler32",
+  "historyId" : "ZCL_ABAPGIT_HASH.ltcl_test.adler32",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "ZCL_ABAPGIT_HASH.ltcl_test"
+  }, {
+    "name" : "testClass",
+    "value" : "ZCL_ABAPGIT_HASH.ltcl_test"
+  }, {
+    "name" : "package",
+    "value" : "ZCL_ABAPGIT_HASH.ltcl_test"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7083444e20c35cb.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,42 @@
+{
+  "uid" : "d0f84cfe4a696919",
+  "name" : "ZCX_ABAPGIT_EXCEPTION.ltcl_test.test_t100_text3",
+  "fullName" : "ZCX_ABAPGIT_EXCEPTION.ltcl_test.test_t100_text3",
+  "historyId" : "ZCX_ABAPGIT_EXCEPTION.ltcl_test.test_t100_text3",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "ZCX_ABAPGIT_EXCEPTION.ltcl_test"
+  }, {
+    "name" : "testClass",
+    "value" : "ZCX_ABAPGIT_EXCEPTION.ltcl_test"
+  }, {
+    "name" : "package",
+    "value" : "ZCX_ABAPGIT_EXCEPTION.ltcl_test"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d0f84cfe4a696919.json",
+  "parameterValues" : [ ]
+}

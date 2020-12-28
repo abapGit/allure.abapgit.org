@@ -1,0 +1,42 @@
+{
+  "uid" : "d76422b376c1d1a0",
+  "name" : "CL_ABAP_CONV_IN_CE.ltcl_conv_in.test2",
+  "fullName" : "CL_ABAP_CONV_IN_CE.ltcl_conv_in.test2",
+  "historyId" : "CL_ABAP_CONV_IN_CE.ltcl_conv_in.test2",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "CL_ABAP_CONV_IN_CE.ltcl_conv_in"
+  }, {
+    "name" : "testClass",
+    "value" : "CL_ABAP_CONV_IN_CE.ltcl_conv_in"
+  }, {
+    "name" : "package",
+    "value" : "CL_ABAP_CONV_IN_CE.ltcl_conv_in"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d76422b376c1d1a0.json",
+  "parameterValues" : [ ]
+}

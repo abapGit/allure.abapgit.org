@@ -1,0 +1,42 @@
+{
+  "uid" : "b86334d20cf1cd68",
+  "name" : "ZCL_ABAPGIT_STRING_MAP.ltcl_sm_test.strict",
+  "fullName" : "ZCL_ABAPGIT_STRING_MAP.ltcl_sm_test.strict",
+  "historyId" : "ZCL_ABAPGIT_STRING_MAP.ltcl_sm_test.strict",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "ZCL_ABAPGIT_STRING_MAP.ltcl_sm_test"
+  }, {
+    "name" : "testClass",
+    "value" : "ZCL_ABAPGIT_STRING_MAP.ltcl_sm_test"
+  }, {
+    "name" : "package",
+    "value" : "ZCL_ABAPGIT_STRING_MAP.ltcl_sm_test"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b86334d20cf1cd68.json",
+  "parameterValues" : [ ]
+}

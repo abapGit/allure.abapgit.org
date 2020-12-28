@@ -1,0 +1,42 @@
+{
+  "uid" : "211e105195964298",
+  "name" : "CL_GUI_CFW.ltcl_test.test1",
+  "fullName" : "CL_GUI_CFW.ltcl_test.test1",
+  "historyId" : "CL_GUI_CFW.ltcl_test.test1",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "CL_GUI_CFW.ltcl_test"
+  }, {
+    "name" : "testClass",
+    "value" : "CL_GUI_CFW.ltcl_test"
+  }, {
+    "name" : "package",
+    "value" : "CL_GUI_CFW.ltcl_test"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "211e105195964298.json",
+  "parameterValues" : [ ]
+}

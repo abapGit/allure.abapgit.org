@@ -1,0 +1,42 @@
+{
+  "uid" : "3f7fa40668b9dcac",
+  "name" : "ZCL_ABAPGIT_CONVERT.ltcl_convert.string_to_tab",
+  "fullName" : "ZCL_ABAPGIT_CONVERT.ltcl_convert.string_to_tab",
+  "historyId" : "ZCL_ABAPGIT_CONVERT.ltcl_convert.string_to_tab",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "ZCL_ABAPGIT_CONVERT.ltcl_convert"
+  }, {
+    "name" : "testClass",
+    "value" : "ZCL_ABAPGIT_CONVERT.ltcl_convert"
+  }, {
+    "name" : "package",
+    "value" : "ZCL_ABAPGIT_CONVERT.ltcl_convert"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f7fa40668b9dcac.json",
+  "parameterValues" : [ ]
+}

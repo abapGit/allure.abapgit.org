@@ -1,0 +1,42 @@
+{
+  "uid" : "161eaf93b1d2a6d9",
+  "name" : "ZCL_ABAPGIT_HASH.ltcl_test.sha1_raw_invalid",
+  "fullName" : "ZCL_ABAPGIT_HASH.ltcl_test.sha1_raw_invalid",
+  "historyId" : "ZCL_ABAPGIT_HASH.ltcl_test.sha1_raw_invalid",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "ZCL_ABAPGIT_HASH.ltcl_test"
+  }, {
+    "name" : "testClass",
+    "value" : "ZCL_ABAPGIT_HASH.ltcl_test"
+  }, {
+    "name" : "package",
+    "value" : "ZCL_ABAPGIT_HASH.ltcl_test"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "161eaf93b1d2a6d9.json",
+  "parameterValues" : [ ]
+}

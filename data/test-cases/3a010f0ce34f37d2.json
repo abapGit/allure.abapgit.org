@@ -1,0 +1,42 @@
+{
+  "uid" : "3a010f0ce34f37d2",
+  "name" : "ZCL_ABAPGIT_CONVERT.ltcl_convert.xstring_to_bintab",
+  "fullName" : "ZCL_ABAPGIT_CONVERT.ltcl_convert.xstring_to_bintab",
+  "historyId" : "ZCL_ABAPGIT_CONVERT.ltcl_convert.xstring_to_bintab",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "ZCL_ABAPGIT_CONVERT.ltcl_convert"
+  }, {
+    "name" : "testClass",
+    "value" : "ZCL_ABAPGIT_CONVERT.ltcl_convert"
+  }, {
+    "name" : "package",
+    "value" : "ZCL_ABAPGIT_CONVERT.ltcl_convert"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a010f0ce34f37d2.json",
+  "parameterValues" : [ ]
+}

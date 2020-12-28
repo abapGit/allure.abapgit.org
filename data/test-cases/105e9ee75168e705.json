@@ -1,0 +1,42 @@
+{
+  "uid" : "105e9ee75168e705",
+  "name" : "CL_ABAP_CHAR_UTILITIES.ltcl_char_utilities.test2",
+  "fullName" : "CL_ABAP_CHAR_UTILITIES.ltcl_char_utilities.test2",
+  "historyId" : "CL_ABAP_CHAR_UTILITIES.ltcl_char_utilities.test2",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "CL_ABAP_CHAR_UTILITIES.ltcl_char_utilities"
+  }, {
+    "name" : "testClass",
+    "value" : "CL_ABAP_CHAR_UTILITIES.ltcl_char_utilities"
+  }, {
+    "name" : "package",
+    "value" : "CL_ABAP_CHAR_UTILITIES.ltcl_char_utilities"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "105e9ee75168e705.json",
+  "parameterValues" : [ ]
+}

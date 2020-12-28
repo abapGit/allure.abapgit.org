@@ -1,0 +1,42 @@
+{
+  "uid" : "af7b5d516e42a165",
+  "name" : "ZCL_ABAPGIT_VERSION.ltcl_version.version_to_numeric",
+  "fullName" : "ZCL_ABAPGIT_VERSION.ltcl_version.version_to_numeric",
+  "historyId" : "ZCL_ABAPGIT_VERSION.ltcl_version.version_to_numeric",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "ZCL_ABAPGIT_VERSION.ltcl_version"
+  }, {
+    "name" : "testClass",
+    "value" : "ZCL_ABAPGIT_VERSION.ltcl_version"
+  }, {
+    "name" : "package",
+    "value" : "ZCL_ABAPGIT_VERSION.ltcl_version"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "af7b5d516e42a165.json",
+  "parameterValues" : [ ]
+}

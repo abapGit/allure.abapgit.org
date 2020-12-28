@@ -1,0 +1,42 @@
+{
+  "uid" : "b613e3d8c9703af3",
+  "name" : "ZCL_ABAPGIT_HTML.ltcl_html.indent1",
+  "fullName" : "ZCL_ABAPGIT_HTML.ltcl_html.indent1",
+  "historyId" : "ZCL_ABAPGIT_HTML.ltcl_html.indent1",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "ZCL_ABAPGIT_HTML.ltcl_html"
+  }, {
+    "name" : "testClass",
+    "value" : "ZCL_ABAPGIT_HTML.ltcl_html"
+  }, {
+    "name" : "package",
+    "value" : "ZCL_ABAPGIT_HTML.ltcl_html"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b613e3d8c9703af3.json",
+  "parameterValues" : [ ]
+}

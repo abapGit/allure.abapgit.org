@@ -1,0 +1,42 @@
+{
+  "uid" : "43eca17ac3598ea",
+  "name" : "ZCL_ABAPGIT_SYNTAX_XML.ltcl_abapgit_syntax_xml.attributes_only",
+  "fullName" : "ZCL_ABAPGIT_SYNTAX_XML.ltcl_abapgit_syntax_xml.attributes_only",
+  "historyId" : "ZCL_ABAPGIT_SYNTAX_XML.ltcl_abapgit_syntax_xml.attributes_only",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "ZCL_ABAPGIT_SYNTAX_XML.ltcl_abapgit_syntax_xml"
+  }, {
+    "name" : "testClass",
+    "value" : "ZCL_ABAPGIT_SYNTAX_XML.ltcl_abapgit_syntax_xml"
+  }, {
+    "name" : "package",
+    "value" : "ZCL_ABAPGIT_SYNTAX_XML.ltcl_abapgit_syntax_xml"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "43eca17ac3598ea.json",
+  "parameterValues" : [ ]
+}

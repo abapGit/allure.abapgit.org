@@ -1,0 +1,42 @@
+{
+  "uid" : "c9f8c554da07ea91",
+  "name" : "CL_HTTP_UTILITY.ltcl_test.encode_base64",
+  "fullName" : "CL_HTTP_UTILITY.ltcl_test.encode_base64",
+  "historyId" : "CL_HTTP_UTILITY.ltcl_test.encode_base64",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "CL_HTTP_UTILITY.ltcl_test"
+  }, {
+    "name" : "testClass",
+    "value" : "CL_HTTP_UTILITY.ltcl_test"
+  }, {
+    "name" : "package",
+    "value" : "CL_HTTP_UTILITY.ltcl_test"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c9f8c554da07ea91.json",
+  "parameterValues" : [ ]
+}

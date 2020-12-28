@@ -1,6 +1,17 @@
 {
-  "total" : 11,
+  "total" : 29,
   "items" : [ {
+    "uid" : "8cdf5303adcf229fbad4288a81a6c755",
+    "name" : "ZCL_ABAPGIT_URL.ltcl_test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 14
+    }
+  }, {
     "uid" : "262bc23b06bad658e212531d824a161c",
     "name" : "ZCL_ABAPGIT_CONVERT.ltcl_convert",
     "statistic" : {
@@ -12,8 +23,8 @@
       "total" : 10
     }
   }, {
-    "uid" : "8cdf5303adcf229fbad4288a81a6c755",
-    "name" : "ZCL_ABAPGIT_URL.ltcl_test",
+    "uid" : "32d9be9395252930338dd0383305efd2",
+    "name" : "ZCX_ABAPGIT_EXCEPTION.ltcl_test",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -23,15 +34,48 @@
       "total" : 10
     }
   }, {
+    "uid" : "426776d7e8f7701d418f212b77b0e50c",
+    "name" : "ZCL_ABAPGIT_SYNTAX_ABAP.ltcl_syntax_cases",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "93e15196b6fd7b5ecff4c816f6af6422",
+    "name" : "ZCL_ABAPGIT_SYNTAX_XML.ltcl_syntax_cases",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
     "uid" : "b9c7cab8a48e821686381c8821fb2393",
     "name" : "CL_ABAP_UNIT_ASSERT.ltcl_test",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 5,
+      "passed" : 7,
       "unknown" : 0,
-      "total" : 5
+      "total" : 7
+    }
+  }, {
+    "uid" : "93a99333bffa03c8576c76f263761a12",
+    "name" : "ZCL_ABAPGIT_SYNTAX_XML.ltcl_abapgit_syntax_xml",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
     }
   }, {
     "uid" : "d6e9e94cd27465399b9bd12ff730a607",
@@ -45,70 +89,26 @@
       "total" : 5
     }
   }, {
-    "uid" : "4d1dea7f6d781d2f618724603c2cf724",
-    "name" : "ZCL_ABAPGIT_HASH.ltcl_test",
+    "uid" : "6c033fd5956f6f92a67ae5cb40a342b8",
+    "name" : "ZCL_ABAPGIT_HTML.ltcl_html",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 1,
-      "passed" : 3,
-      "unknown" : 0,
-      "total" : 4
-    }
-  }, {
-    "uid" : "8bd7af482e8b92edef9fbada61870ca7",
-    "name" : "CL_HTTP_UTILITY.ltcl_test",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 2,
-      "unknown" : 0,
-      "total" : 2
-    }
-  }, {
-    "uid" : "b30ce439fd71b47fe40c52885cb37fe1",
-    "name" : "CL_ABAP_CONV_OUT_CE.ltcl_conv_out",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "e30e8e739228d1abbd1cf87e46677a96",
-    "name" : "CL_ABAP_CONV_IN_CE.ltcl_conv_in",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "32d9be9395252930338dd0383305efd2",
-    "name" : "ZCX_ABAPGIT_EXCEPTION.ltcl_test",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 10,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 10
-    }
-  }, {
-    "uid" : "68385096cf4b20419d8279a853222469",
-    "name" : "ZCX_ABAPGIT_EXCEPTION.ltcl_split_text",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 5,
-      "passed" : 0,
+      "passed" : 4,
       "unknown" : 0,
       "total" : 5
+    }
+  }, {
+    "uid" : "896f744792e8e9c0dcd603d547d8714c",
+    "name" : "CL_ABAP_TYPEDESCR.ltcl_test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
     }
   } ]
 }

@@ -1,0 +1,42 @@
+{
+  "uid" : "8ac2513e99a87e3a",
+  "name" : "ZCL_ABAPGIT_SYNTAX_XML.ltcl_syntax_cases.test_xml_04",
+  "fullName" : "ZCL_ABAPGIT_SYNTAX_XML.ltcl_syntax_cases.test_xml_04",
+  "historyId" : "ZCL_ABAPGIT_SYNTAX_XML.ltcl_syntax_cases.test_xml_04",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "ZCL_ABAPGIT_SYNTAX_XML.ltcl_syntax_cases"
+  }, {
+    "name" : "testClass",
+    "value" : "ZCL_ABAPGIT_SYNTAX_XML.ltcl_syntax_cases"
+  }, {
+    "name" : "package",
+    "value" : "ZCL_ABAPGIT_SYNTAX_XML.ltcl_syntax_cases"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ac2513e99a87e3a.json",
+  "parameterValues" : [ ]
+}

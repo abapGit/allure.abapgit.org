@@ -1,0 +1,42 @@
+{
+  "uid" : "b080b0fc11eac36c",
+  "name" : "CL_ABAP_UNIT_ASSERT.ltcl_test.equals",
+  "fullName" : "CL_ABAP_UNIT_ASSERT.ltcl_test.equals",
+  "historyId" : "CL_ABAP_UNIT_ASSERT.ltcl_test.equals",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "CL_ABAP_UNIT_ASSERT.ltcl_test"
+  }, {
+    "name" : "testClass",
+    "value" : "CL_ABAP_UNIT_ASSERT.ltcl_test"
+  }, {
+    "name" : "package",
+    "value" : "CL_ABAP_UNIT_ASSERT.ltcl_test"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b080b0fc11eac36c.json",
+  "parameterValues" : [ ]
+}

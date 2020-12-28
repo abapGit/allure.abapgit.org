@@ -1,0 +1,42 @@
+{
+  "uid" : "c91ecc7ff93bd783",
+  "name" : "CX_ROOT.ltcl_test.test1",
+  "fullName" : "CX_ROOT.ltcl_test.test1",
+  "historyId" : "CX_ROOT.ltcl_test.test1",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "CX_ROOT.ltcl_test"
+  }, {
+    "name" : "testClass",
+    "value" : "CX_ROOT.ltcl_test"
+  }, {
+    "name" : "package",
+    "value" : "CX_ROOT.ltcl_test"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c91ecc7ff93bd783.json",
+  "parameterValues" : [ ]
+}

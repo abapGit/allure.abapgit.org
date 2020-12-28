@@ -1,0 +1,42 @@
+{
+  "uid" : "e18ae46ddf5d61a8",
+  "name" : "CL_ABAP_REGEX.ltcl_test.test01",
+  "fullName" : "CL_ABAP_REGEX.ltcl_test.test01",
+  "historyId" : "CL_ABAP_REGEX.ltcl_test.test01",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "CL_ABAP_REGEX.ltcl_test"
+  }, {
+    "name" : "testClass",
+    "value" : "CL_ABAP_REGEX.ltcl_test"
+  }, {
+    "name" : "package",
+    "value" : "CL_ABAP_REGEX.ltcl_test"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e18ae46ddf5d61a8.json",
+  "parameterValues" : [ ]
+}

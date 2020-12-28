@@ -1,0 +1,42 @@
+{
+  "uid" : "1a7b36bdfd956775",
+  "name" : "CL_ABAP_HMAC.ltcl_sha1.sha1",
+  "fullName" : "CL_ABAP_HMAC.ltcl_sha1.sha1",
+  "historyId" : "CL_ABAP_HMAC.ltcl_sha1.sha1",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "xunit"
+  }, {
+    "name" : "suite",
+    "value" : "CL_ABAP_HMAC.ltcl_sha1"
+  }, {
+    "name" : "testClass",
+    "value" : "CL_ABAP_HMAC.ltcl_sha1"
+  }, {
+    "name" : "package",
+    "value" : "CL_ABAP_HMAC.ltcl_sha1"
+  }, {
+    "name" : "framework",
+    "value" : "abap-framework"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1a7b36bdfd956775.json",
+  "parameterValues" : [ ]
+}
